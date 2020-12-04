@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051533122086",
+    "firebase_url": "https://fir-voluntaqui.firebaseio.com",
+    "project_id": "fir-voluntaqui",
+    "storage_bucket": "fir-voluntaqui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051533122086:android:628d32315ba9dabf52e4e7",
+        "android_client_info": {
+          "package_name": "com.example.voluntaqui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051533122086-hq9qc17rmcb4joe0bvseii9t3bfe2g33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voluntaqui",
+            "certificate_hash": "3b33f1b75c63f2de39ddad5caab51f2c08198346"
+          }
+        },
+        {
+          "client_id": "1051533122086-jeve0jnguf5qu94gdlle57c1tbe7s656.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMofFG4i4ZvTv2-8f0tf7A5AHIPneSC7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051533122086-jeve0jnguf5qu94gdlle57c1tbe7s656.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
